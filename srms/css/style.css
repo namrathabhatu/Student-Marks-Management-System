@@ -1,0 +1,9 @@
+html, body {
+  background-image:"C:\xampp\htdocs\mgmt\srms\images.jpg"
+   background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-family: sans-serif;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
